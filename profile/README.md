@@ -64,10 +64,10 @@ Axiom&Co is a growing family of products and services, each built to the same st
 
 | Product | Status | Description |
 |---|---|---|
-| **Axiom Digital** | Live | Our AI-native digital growth studio |
+| **Axiom Studio** | Live | Our AI-native digital growth studio |
 | *More to come* | Coming soon | New products launching under Axiom&Co |
 
-### Axiom Digital
+### Axiom Studio
 
 An **AI-Native Digital Growth Studio** for B2B SaaS, fintech, and healthcare companies. We build premium custom websites, ongoing website management, AI-powered content, SEO, and AI Engine Optimisation (AEO), delivered through an AI-accelerated workflow that compresses traditional agency timelines by **40-60%** without compromising quality.
 
