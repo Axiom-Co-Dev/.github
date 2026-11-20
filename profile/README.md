@@ -40,14 +40,9 @@ We are building a company where a skilled AI workforce manages complex projects 
 
 ## Our Principles
 
-| | Principle | |
-|---|---|---|
-| **01** | **Quality, always.** | Speed never excuses average. |
-| **02** | **Humans decide. AI executes.** | Autonomy with accountability. |
-| **03** | **Truth over hype.** | We promise only what we can prove. |
-| **04** | **Own the stack.** | Self-hosted. Multi-provider. Never locked in. |
-| **05** | **Play the long game.** | We measure success by our clients' growth. |
-| **06** | **Never stand still.** | We research, test, and evolve every day. |
+| Quality, uncompromised. | Human-led. AI-powered. | Trust built. Results driven. |
+| --- | --- | --- |
+
 
 ---
 
